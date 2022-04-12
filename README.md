@@ -1,1 +1,1 @@
-# SI_2022_lab1_183006
+Viktorija Stamenkovska 183006
