@@ -1,5 +1,5 @@
-kafe
-mandarina
-limon
-cedevita
-mleko
+kafe x5
+mandarina x10
+limon x3
+cedevita x2
+mleko x2
